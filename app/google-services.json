@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133556318542",
+    "project_id": "simplefbdatabase",
+    "storage_bucket": "simplefbdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133556318542:android:eaeee24dc39d41ee68ee1f",
+        "android_client_info": {
+          "package_name": "com.example.myfirebasedatabaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133556318542-3n52iea1ub1m3niaipb1p5a4lcmko899.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoy0fC1UrJk9sh9j7fWVBFhnh2cGYhAcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133556318542-3n52iea1ub1m3niaipb1p5a4lcmko899.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
